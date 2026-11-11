@@ -1,6 +1,6 @@
 // Offline support. The app itself is cached on install; exercise photos and fonts are
 // cached the first time you see them. Bump VERSION whenever you upload new files.
-const VERSION = 'dropset-v18';
+const VERSION = 'dropset-v20';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png'];
 const MEDIA = 'dropset-media-v1';
 
